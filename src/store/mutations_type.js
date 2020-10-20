@@ -1,0 +1,19 @@
+export const SET_USER_INFO = 'SET_USER_INFO';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_STORE_LIST = 'SET_STORE_LIST';
+export const SET_PRODUCT_STOCK_LIST = 'SET_PRODUCT_STOCK_LIST';
+export const SET_SHOPPING_CART = 'SET_SHOPPING_CART';
+export const SET_QUERY = 'SET_QUERY';
+export const SET_MENU_LIST = 'SET_MENU_LIST';
+export const SET_MESSAGE_LIST = 'SET_MESSAGE_LIST';
+export const SET_PERMISSION = 'SET_PERMISSION';
+export const SET_ROLE_LIST = 'SET_ROLE_LIST';
+export const SET_USER_PROFILE = 'SET_USER_PROFILE';
+export const SET_FILE_ITEM = 'SET_FILE_ITEM';
+export const SET_PLATFORM_LIST = 'SET_PLATFORM_LIST';
+export const SET_CONTRACT_ACCEPT = 'SET_CONTRACT_ACCEPT';
+export const SET_USER_DETAILS = 'SET_USER_DETAILS';
+// alert
+export const SET_ALERT = 'SET_ALERT';
+// dialog
+export const SET_DIALOG = 'SET_DIALOG';
